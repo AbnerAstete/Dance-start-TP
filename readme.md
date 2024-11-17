@@ -1,5 +1,5 @@
 
-# Objectif de ce code
+# The report is in Report.pdf
 (Ce code est indépendant de tout le reste du dépôt)
 
 À partir d'une vidéo d'une personne source et d'une autre d'une personne, notre objectif est de générer une nouvelle vidéo de la cible effectuant les mêmes mouvements que la source. 
